@@ -1,6 +1,6 @@
 # python_aida64
 
-A python implementation of reading aida64 data via shared memory. Works on Windows only, as you would image.
+A python implementation of reading aida64 data via shared memory. Works on Windows only, as you would imagine.
 
 ## Usage
 ```Python
